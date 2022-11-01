@@ -1,2 +1,3 @@
-const arr = [3, 6, 9];
+const pokemon = [{
+    name:];
 console.log(arr[0]);
